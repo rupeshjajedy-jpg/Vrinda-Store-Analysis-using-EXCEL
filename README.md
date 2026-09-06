@@ -4,7 +4,9 @@
 
 Vrinda Store wants to create an annual sales report for **2022** to understand customers and improve sales in **2023**.
 
-![Report](./Vrinda_Store_report_screenshot.png)
+## 📊 Sales Report
+
+![Vrinda Store Sales Report](https://raw.githubusercontent.com/rupeshjajedy-jpg/Vrinda-Store-Analysis-using-EXCEL/main/VRINDA_STORE_ANALYSIS/Vrinda_Store_report_screenshot.png)
 
 ## 🛠️ Tools & Skills
 
